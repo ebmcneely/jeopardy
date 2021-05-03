@@ -1,0 +1,27 @@
+#game-board {
+	background-color: #060ce9;
+
+	text-align: center;
+	font-size: 10pt;
+}
+
+th {
+	text-transform: uppercase;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-weight: bold;
+	height: 4em;
+	border: solid 1px white;
+	width: 12em;
+	padding: 1em;
+	color: yellow;
+}
+
+td {
+	height: 8em;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-weight: bold;
+	border: solid 1px white;
+	width: 12em;
+	padding: 1em;
+	color: white;
+}
